@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Zucker Ping",
+        "avatar": "https://robohash.org/zucker-ping.png",
+        "username": "zucker",
+        "password": "123456",
+        "token" :"enVja2VyOjEyMzQ1Ng=="
+    },
+    {
+        "id": 2,
+        "name": "Felon Must",
+        "avatar": "https://robohash.org/felon-must.png",
+        "username": "felon",
+        "password": "123123",
+        "token" :"ZmVsb246MTIzMTIz"
+    },
+    {
+        "id": 3,
+        "name": "Robon Wood",
+        "avatar": "https://robohash.org/robon-wood.png",
+        "username": "robon",
+        "password": "secret",
+        "token" :"cm9ib246c2VjcmV0"
+    }
+]
